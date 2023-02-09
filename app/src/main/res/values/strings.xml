@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="profile">Profile</string>
+    <string name="name">MAHESH KARBHAR</string>
+    <string name="my_pic">My Pic</string>
+
+    <string name="bio">
+        I am a Android Developer in Digital Flake Solutions Private Ltd. at Pune,Maharashtra.I am from Chhatrapati Sambhaji Nagar,Maharashtra.I have completed CDAC from Mumbai with A Grade in Oct 2022.I have completed Bachelor of Engineering from MIT,Aurangabad. Also I have completed diploma from MIT,Aurangabad.I am currently living in Pune,Maharashtra.
+
+    </string>
+    <string name="done">DONE</string>
+</resources>
